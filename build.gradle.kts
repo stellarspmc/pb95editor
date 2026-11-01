@@ -5,16 +5,16 @@ plugins {
     alias(libs.plugins.kotlinxSerialization)
 }
 
-group = "me.user"
-version = "1.0-SNAPSHOT"
+group = "fun.spmc"
+version = "1.0"
 
 repositories {
     mavenCentral()
 }
 
 kotlin {
-    macosArm64()
-    linuxArm64()
+    //macosArm64()
+    //linuxArm64()
     linuxX64()
     mingwX64()
 
@@ -29,6 +29,7 @@ kotlin {
     sourceSets {
         nativeMain.dependencies {
             implementation(libs.kotlinxSerializationJson)
+	        implementation("org.jetbrains.kotlinx:kotlinx-io-core:0.9.2")
         }
     }
 }
