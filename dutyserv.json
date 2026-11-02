@@ -1,0 +1,1197 @@
+{
+  "Haptic": true,
+  "PlayerAchievementListOld": [
+    "perfectionist",
+    "nonconformist",
+    "95",
+    "ball",
+    "yinandyangt",
+    "zebra",
+    "outerspace",
+    "getupgrade",
+    "matrix",
+    "dosdigger",
+    "hex",
+    "sys32",
+    "bug",
+    "dosbonus",
+    "dos10k",
+    "easteregg",
+    "p96",
+    "dog",
+    "symmetry",
+    "scandisk",
+    "defender",
+    "minesweeper",
+    "saver",
+    "p98",
+    "syscode",
+    "pro",
+    "prog3d",
+    "pme",
+    "klondike",
+    "latin",
+    "p2k",
+    "dos50k",
+    "removebin",
+    "p31",
+    "pxp",
+    "deadpixel",
+    "tube",
+    "magenta",
+    "fairplay",
+    "ctrlaltdel",
+    "pws",
+    "slidepuzzle",
+    "anti95",
+    "antitube",
+    "morse95",
+    "p_7",
+    "daychallenges",
+    "null",
+    "p81",
+    "p10",
+    "expert",
+    "pnt",
+    "customgame",
+    "ba1",
+    "ba2",
+    "ba3",
+    "ba4",
+    "colreg",
+    "p1x",
+    "p11",
+    "p12",
+    "master",
+    "adept",
+    "p_2",
+    "p36",
+    "grand",
+    "server",
+    "p_1",
+    "colclassic",
+    "pds",
+    "colbeta",
+    "pch",
+    "pnp",
+    "pwp",
+    "plh",
+    "ba5",
+    "ba6",
+    "ba7",
+    "ba8",
+    "ba9",
+    "b10",
+    "b11",
+    "b12",
+    "b13",
+    "b14",
+    "b15",
+    "anotherdeck",
+    "bos",
+    "rainbow",
+    "dontclosepopuphardcore",
+    "serverline",
+    "b16",
+    "dontpanic",
+    "rmrf",
+    "y2k",
+    "ieye",
+    "bit8",
+    "p13"
+  ],
+  "OS": {
+    "BAR": {
+      "PurchasedSystem": [],
+      "UpgradeStage": 18,
+      "InstalledSystem": [
+        "BA1",
+        "BA2",
+        "BA3",
+        "BA4",
+        "BA5",
+        "BA6",
+        "BA7",
+        "BA8",
+        "BA9",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "BX1",
+        "BOS"
+      ]
+    },
+    "BIT8": {
+      "PurchasedSystem": [],
+      "Microchips": 5,
+      "FreeMicrochips": 5,
+      "InstalledSystem": [
+        "E_1"
+      ],
+      "UpgradeStage": 1
+    }
+  },
+  "BIT8": {
+    "SaveSlots": []
+  },
+  "Pointer": {
+    "P96": 3,
+    "PNP": 5,
+    "P_7": 1,
+    "P36": 2,
+    "PNT": 1,
+    "P12": 3,
+    "P_2": 4,
+    "PWS": 1,
+    "PLH": 4,
+    "P31": 3,
+    "P_1": 2,
+    "P11": 3,
+    "PWP": 5,
+    "P95": 2,
+    "P1X": 3,
+    "P81": 2,
+    "P98": 4,
+    "PXP": 1,
+    "P10": 5
+  },
+  "Themes": {
+    "P96": 5,
+    "B15": 5,
+    "PNP": 5,
+    "B11": 1,
+    "BA8": 1,
+    "PS7": 1,
+    "BPB": 1,
+    "B14": 1,
+    "BA9": 1,
+    "P12": 5,
+    "PWS": 1,
+    "P13": 1,
+    "P10": 3,
+    "PXP": 1,
+    "PME": 5,
+    "PWP": 5,
+    "P1X": 2,
+    "B13": 1,
+    "P98": 4,
+    "P_7": 1,
+    "P2K": 4,
+    "PLH": 4,
+    "B10": 1,
+    "B16": 1,
+    "P81": 3,
+    "P11": 3,
+    "B12": 1
+  },
+  "BARScore": 0,
+  "HptcHDD": false,
+  "phard": {
+    "GPU": [
+      1,
+      5
+    ],
+    "RAM": [
+      3,
+      2
+    ]
+  },
+  "Taskbar": 1,
+  "MyPageHeadImage2": "img1",
+  "BlueTick": true,
+  "BIT8Score": 328,
+  "wirecutter": true,
+  "Volume": 1,
+  "OriginalVersion": 9600,
+  "PlayerAchievementList": [
+    "perfectionist",
+    "zebra",
+    "yinandyangt",
+    "getupgrade",
+    "nonconformist",
+    "matrix",
+    "outerspace",
+    "ball",
+    "95",
+    "sys32",
+    "dosdigger",
+    "hex",
+    "bug",
+    "dosbonus",
+    "dos10k",
+    "easteregg",
+    "p96",
+    "minesweeper",
+    "scandisk",
+    "symmetry",
+    "saver",
+    "dog",
+    "defender",
+    "p98",
+    "syscode",
+    "prog3d",
+    "pro",
+    "pme",
+    "klondike",
+    "latin",
+    "p2k",
+    "removebin",
+    "dos50k",
+    "p31",
+    "pxp",
+    "deadpixel",
+    "magenta",
+    "fairplay",
+    "ctrlaltdel",
+    "tube",
+    "pws",
+    "slidepuzzle",
+    "anti95",
+    "antitube",
+    "morse95",
+    "p_7",
+    "daychallenges",
+    "null",
+    "p81",
+    "p10",
+    "expert",
+    "pnt",
+    "customgame",
+    "ba1",
+    "ba2",
+    "ba3",
+    "ba4",
+    "p1x",
+    "colreg",
+    "p11",
+    "p12",
+    "master",
+    "adept",
+    "p_2",
+    "p36",
+    "grand",
+    "server",
+    "p_1",
+    "pds",
+    "colclassic",
+    "plh",
+    "pwp",
+    "pch",
+    "pnp",
+    "colbeta",
+    "bos",
+    "ba5",
+    "ba6",
+    "ba7",
+    "ba8",
+    "ba9",
+    "b10",
+    "b11",
+    "b12",
+    "b13",
+    "anotherdeck",
+    "b14",
+    "b15",
+    "rainbow",
+    "dontclosepopuphardcore",
+    "serverline",
+    "b16",
+    "dontpanic",
+    "rmrf",
+    "y2k",
+    "ieye",
+    "bit8",
+    "p13"
+  ],
+  "UserPic": 1,
+  "BackgroundColors": {
+    "PME": [
+      1,
+      1,
+      1
+    ],
+    "P96": [
+      21,
+      21,
+      21
+    ],
+    "P95": [
+      51,
+      51,
+      51
+    ],
+    "P2K": [
+      41,
+      171,
+      226
+    ]
+  },
+  "CounterWarning": 0,
+  "Favorities": [
+    "ppp.mywebsite",
+    "ppp.pbook",
+    "ppp.searchoo"
+  ],
+  "MyPageHeadImage3": "img7",
+  "ShaderON": true,
+  "UnlockedItems": {
+    "Phaser": {
+      "P96": [
+        true,
+        true
+      ],
+      "PLH": [
+        true,
+        true
+      ],
+      "PWS": [
+        true,
+        true
+      ],
+      "P_7": [
+        true,
+        true
+      ],
+      "P1X": [
+        true,
+        true
+      ],
+      "PWP": [
+        true,
+        true
+      ],
+      "P98": [
+        true,
+        true
+      ],
+      "PXP": [
+        true,
+        true
+      ],
+      "P2K": [
+        true,
+        true
+      ],
+      "PME": [
+        true,
+        true
+      ],
+      "P_1": [
+        true,
+        true
+      ],
+      "PS1": [
+        true,
+        true
+      ],
+      "P12": [
+        true,
+        true
+      ],
+      "P_2": [
+        true,
+        true
+      ],
+      "P10": [
+        true,
+        true
+      ]
+    },
+    "Patterneditor": [],
+    "Pointers": {
+      "P96": [],
+      "PNP": [],
+      "PME": [],
+      "P36": [],
+      "PNT": [],
+      "P12": [],
+      "P_2": [],
+      "PWS": [],
+      "PLH": [],
+      "PCH": [],
+      "P31": [],
+      "P_1": [],
+      "P11": [],
+      "P1X": [],
+      "P81": [],
+      "P2K": [],
+      "P95": [],
+      "PWP": [],
+      "P_7": [],
+      "P98": [],
+      "PXP": [],
+      "P10": []
+    },
+    "Fonts": {
+      "P96": [],
+      "PLH": [],
+      "PNP": [],
+      "PME": [],
+      "P1X": [],
+      "PWS": [],
+      "P2K": [],
+      "PWP": [],
+      "P98": [],
+      "P_7": [],
+      "P81": [],
+      "PXP": [],
+      "P10": []
+    },
+    "Themes": {
+      "P96": [
+        true
+      ],
+      "B15": [
+        true
+      ],
+      "PNP": [
+        true
+      ],
+      "PME": [
+        true
+      ],
+      "BPB": [
+        true
+      ],
+      "P12": [
+        true
+      ],
+      "PWS": [
+        true
+      ],
+      "PXP": [
+        true
+      ],
+      "PWP": [
+        true
+      ],
+      "P1X": [
+        true
+      ],
+      "P11": [
+        true
+      ],
+      "P2K": [
+        true
+      ],
+      "PLH": [
+        true
+      ],
+      "B10": [
+        true
+      ],
+      "P81": [
+        true
+      ],
+      "P98": [
+        true
+      ],
+      "P_7": [
+        true
+      ],
+      "P10": [
+        true
+      ]
+    }
+  },
+  "GPUType": 5,
+  "BCIntroTheme": "BOS",
+  "ProductKeys": 3,
+  "Cursor": true,
+  "CPUType": 3,
+  "MyPageTextColor": [
+    255,
+    255,
+    255
+  ],
+  "BinStatus": {
+    "Mood": 690.75,
+    "Food": 3
+  },
+  "VirtualMemory": 0,
+  "CursorTrail": false,
+  "ProgressData": 308487127040,
+  "ReduceFlashes": false,
+  "EnlargeText": false,
+  "MyPageHeadImage1": "img2",
+  "DownloadListCurrent": [],
+  "Username": "BLANK OFFICIAL",
+  "RAMType": 3,
+  "PanelPlume": false,
+  "MusicThemeUpgrade": 2,
+  "DisplayMode": 1,
+  "LANTime": 1678121224,
+  "ProgressionScore": 0,
+  "h24": 0,
+  "WallpapepPlacement": 2,
+  "SysYear": true,
+  "LogonScreen": 1,
+  "MyPageBack": "back2",
+  "MyPageTextStyle": "Sans",
+  "LAN": [
+    null,
+    null,
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        200,
+        1,
+        16
+      ],
+      [
+        1,
+        0,
+        9,
+        83,
+        200,
+        1,
+        15
+      ],
+      [
+        1,
+        0,
+        9,
+        83,
+        200,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        9,
+        83,
+        200,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        9,
+        83,
+        200,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        9,
+        83,
+        400,
+        1,
+        16
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        225,
+        1,
+        22
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        225,
+        1,
+        2
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        225,
+        1,
+        2
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        225,
+        1,
+        2
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        225,
+        1,
+        2
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        450,
+        1,
+        12
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        250,
+        1,
+        38
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        250,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        250,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        250,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        250,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        500,
+        1,
+        17
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        275,
+        1,
+        19
+      ],
+      [
+        1,
+        0,
+        9,
+        83,
+        275,
+        1,
+        18
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        275,
+        1,
+        5
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        275,
+        1,
+        5
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        275,
+        1,
+        5
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        550,
+        1,
+        24
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        300,
+        1,
+        54
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        300,
+        1,
+        6
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        300,
+        1,
+        6
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        300,
+        1,
+        6
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        300,
+        1,
+        6
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        600,
+        1,
+        30
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        325,
+        1,
+        22
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        325,
+        1,
+        7
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        325,
+        1,
+        7
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        325,
+        1,
+        7
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        325,
+        1,
+        7
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        650,
+        1,
+        36
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        350,
+        1,
+        24
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        350,
+        1,
+        8
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        350,
+        1,
+        8
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        350,
+        1,
+        8
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        350,
+        1,
+        8
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        700,
+        1,
+        41
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        375,
+        1,
+        34
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        375,
+        1,
+        9
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        375,
+        1,
+        9
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        375,
+        1,
+        9
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        375,
+        1,
+        9
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        750,
+        1,
+        47
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        400,
+        1,
+        34
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        400,
+        1,
+        11
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        400,
+        1,
+        11
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        400,
+        1,
+        11
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        400,
+        1,
+        11
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        800,
+        1,
+        53
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        425,
+        1,
+        27
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        425,
+        1,
+        12
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        425,
+        1,
+        12
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        425,
+        1,
+        12
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        425,
+        1,
+        12
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        850,
+        1,
+        59
+      ]
+    ],
+    [
+      [
+        1,
+        0,
+        9,
+        83,
+        450,
+        1,
+        29
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        450,
+        1,
+        13
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        450,
+        1,
+        13
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        450,
+        1,
+        13
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        450,
+        1,
+        13
+      ],
+      [
+        1,
+        0,
+        8,
+        77,
+        900,
+        1,
+        65
+      ]
+    ]
+  ],
+  "CustomDificultySave": [],
+  "screwdriver": true,
+  "PbookPosts": 24,
+  "Font": {
+    "P96": 1,
+    "PLH": 2,
+    "PNP": 3,
+    "PWP": 2,
+    "P1X": 2,
+    "P2K": 1,
+    "PWS": 2,
+    "P_7": 2,
+    "P81": 3,
+    "P98": 3,
+    "PXP": 2,
+    "P10": 2
+  },
+  "Year": 2024,
+  "chlg": [
+    {
+      "cmplt": false,
+      "count": 360,
+      "gt": false
+    },
+    {
+      "cmplt": false,
+      "count": 36,
+      "gt": false
+    },
+    {
+      "cmplt": false,
+      "count": 0,
+      "gt": false
+    }
+  ],
+  "HDDType": 3,
+  "Browser": {
+    "Downloaded": [1, 3],
+    "Type": 2
+  },
+  "PreviousDGun": 1,
+  "MusicVolume": 1
+}

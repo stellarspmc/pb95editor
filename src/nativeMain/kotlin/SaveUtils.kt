@@ -3,7 +3,7 @@ import kotlinx.io.files.*
 import kotlinx.io.readByteArray
 import kotlinx.io.writeString
 
-private val str = "891001agij-178thta-hj-yqqiqq0-uqiqy12-s-jhgjgkf23-ush-1223-vaba"
+private const val str = "891001agij-178thta-hj-yqqiqq0-uqiqy12-s-jhgjgkf23-ush-1223-vaba"
 
 class SaveUtils {
 	fun encrypt(readPath: Path, writePath: Path) {
@@ -20,3 +20,5 @@ class SaveUtils {
 		} else println("This is not a correct save file!")
 	}
 }
+
+class SaveEditor
